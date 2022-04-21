@@ -1,6 +1,6 @@
 ### Hi, I'm Tekosin 👋
 
-I'm your typical student from Germany. 😪 /// ch
+I'm a typical student from Germany. 😪
 
 Since my time in Primary School I was fascinated about Computer Science and Robots. I've learned programming in the second Grade. I didn't write complex programs back then, but <i>Hello World</i> was like magic to me. 😅
 
@@ -10,8 +10,8 @@ I'm still trying to learning as much as I can, but programming is a never ending
 
 ### What I'm focusing on 💻🚀
 
-Currently improving my Database Skills: MySQL, MongoDB<br> /// ch
-Working on a game 🤫 /// ch
+Currently improving my Database Skills: MySQL, MongoDB<br>
+and looking forward to publish some projects 😇
 
 ### My favorites and most used
 👩‍💻 Languages 🔝<p>
