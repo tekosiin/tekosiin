@@ -30,6 +30,8 @@ and looking forward to publish some projects 😇
 <br><img src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white"> <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"></p>
 🖍 Design 🔝<p>
 <br><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></p>
-
+📝 Contact 🔝<p>
+<br><a href="https://discordapp.com/users/747888212269072545"><img src="https://img.shields.io/badge/Tekosin-000000?style=for-the-badge&logo=Discord&logoColor=white"></a></p>
+  
 <img src="https://i.pinimg.com/originals/bc/e6/94/bce6945ee58212ff7b07354c055d2e09.gif">
 
